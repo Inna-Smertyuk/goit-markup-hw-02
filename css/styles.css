@@ -6,11 +6,10 @@
   --black-text-color: #000000;
 }
 
-.body {
+.page {
   font-family: 'Roboto', sans-serif;
-  color: #212121;
+  color: var(--primary-text-color);
   background-color: #ffffff;
-  color: #757575;
 }
 /* цвет основного текста #212121 */
 /* вторичный цвет текста #757575 */
